@@ -54,3 +54,13 @@
 ## 为什么补零？
 
 <img width="1227" height="704" alt="image" src="https://github.com/user-attachments/assets/7198a1a4-cea4-4023-a510-a99fe84f6ce7" />
+
+<img width="1199" height="740" alt="image" src="https://github.com/user-attachments/assets/0aa46362-d9fc-44a5-95eb-c94f336da42e" />
+
+<img width="1229" height="888" alt="image" src="https://github.com/user-attachments/assets/188263a0-b706-4938-9ad9-62aba618b3ef" />
+
+<img width="1223" height="1009" alt="image" src="https://github.com/user-attachments/assets/f537d090-0d13-48da-a5bf-2934f84a1199" />
+
+<img width="1246" height="994" alt="image" src="https://github.com/user-attachments/assets/cad89874-c338-4011-9d28-40f77276e844" />
+
+<img width="1271" height="408" alt="image" src="https://github.com/user-attachments/assets/aa8b7cfe-57a3-4ce0-b791-21710037b034" />
