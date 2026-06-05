@@ -46,3 +46,11 @@
 <img width="1169" height="643" alt="image" src="https://github.com/user-attachments/assets/775771d0-1bed-4310-8c7c-dc28db3960b8" />
 
 <img width="1186" height="696" alt="image" src="https://github.com/user-attachments/assets/ee5e822d-5603-4ea9-835b-9ae3f220cf94" />
+
+<img width="1204" height="869" alt="image" src="https://github.com/user-attachments/assets/f7020d2f-109e-42f2-aa62-b9f41bfb80a0" />
+
+<img width="1181" height="884" alt="image" src="https://github.com/user-attachments/assets/22381573-143c-4d0c-b7f6-6fc3c26da3c6" />
+
+## 为什么补零？
+
+<img width="1227" height="704" alt="image" src="https://github.com/user-attachments/assets/7198a1a4-cea4-4023-a510-a99fe84f6ce7" />
