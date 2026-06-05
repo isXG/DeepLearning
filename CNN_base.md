@@ -71,5 +71,19 @@
 
 <img width="1181" height="1103" alt="image" src="https://github.com/user-attachments/assets/09871596-0c08-4776-85e8-a1b8418e7c02" />
 
+<img width="1214" height="1074" alt="image" src="https://github.com/user-attachments/assets/d44ed8c9-3f9a-4292-8b30-01b3a546f334" />
+
+# 梯度下降
+
+<img width="1517" height="728" alt="image" src="https://github.com/user-attachments/assets/1eecf990-d5d4-4037-a208-8c6dba120909" />
 
 
+<img width="1315" height="635" alt="image" src="https://github.com/user-attachments/assets/ee5569fd-26d3-4d0e-b637-e8b6ddbe491f" />
+
+<img width="1212" height="742" alt="image" src="https://github.com/user-attachments/assets/e43303dc-6b96-4011-b9b1-ffdf74633555" />
+
+<img width="1204" height="797" alt="image" src="https://github.com/user-attachments/assets/51776806-352b-4946-90ff-60280d36e623" />
+
+<img width="1228" height="802" alt="image" src="https://github.com/user-attachments/assets/745657a0-6de9-4e73-a0d7-8fd7305cd84e" />
+
+<img width="1227" height="249" alt="image" src="https://github.com/user-attachments/assets/e7b368dc-c53c-4bb4-8703-c4dd2cec8326" />
