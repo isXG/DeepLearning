@@ -67,5 +67,14 @@
 
 <img width="1654" height="909" alt="image" src="https://github.com/user-attachments/assets/8c26815f-8bf7-4791-9677-35bbd0d05979" />
 
-<img width="1208" height="587" alt="image" src="https://github.com/user-attachments/assets/a3a602fa-ebcd-479f-a737-56955150f320" />
+<img width="1183" height="941" alt="image" src="https://github.com/user-attachments/assets/f5619c3e-293e-4e50-9148-169a109c50ea" />
 
+<img width="1172" height="931" alt="image" src="https://github.com/user-attachments/assets/dcb21b5c-0c9c-40ae-bf74-4839b00f0c05" />
+
+## 多通道卷积
+
+<img width="1194" height="938" alt="image" src="https://github.com/user-attachments/assets/183edd7c-d8dd-416e-8bfc-eacb4db6a2f1" />
+
+<img width="1216" height="537" alt="image" src="https://github.com/user-attachments/assets/69700e58-6b53-47dc-bf37-8a3b53df4778" />
+
+<img width="1272" height="834" alt="image" src="https://github.com/user-attachments/assets/7492e01a-93fe-4bf9-b81c-9d8fbfb1b71b" />
