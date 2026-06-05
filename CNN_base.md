@@ -87,3 +87,31 @@
 <img width="1228" height="802" alt="image" src="https://github.com/user-attachments/assets/745657a0-6de9-4e73-a0d7-8fd7305cd84e" />
 
 <img width="1227" height="249" alt="image" src="https://github.com/user-attachments/assets/e7b368dc-c53c-4bb4-8703-c4dd2cec8326" />
+
+<img width="1207" height="1124" alt="image" src="https://github.com/user-attachments/assets/65e56988-a420-4012-a04c-7265a053c6ad" />
+
+<img width="1201" height="960" alt="image" src="https://github.com/user-attachments/assets/c70f3ba3-4d3c-440e-8b2a-fa51b98c114a" />
+
+<img width="1219" height="812" alt="image" src="https://github.com/user-attachments/assets/6c2ccb26-5d8a-4f45-877d-f496308e5826" />
+
+<img width="1183" height="694" alt="image" src="https://github.com/user-attachments/assets/1a690f61-d81c-4cfe-9781-1b409e3851b5" />
+
+<img width="1168" height="723" alt="image" src="https://github.com/user-attachments/assets/8939a0ec-f2e1-4dce-965e-3e78ad532913" />
+
+<img width="1200" height="829" alt="image" src="https://github.com/user-attachments/assets/95b477a0-c359-49a4-ab2f-146333f735e7" />
+
+## 理解了这些，再进一步解释公式
+
+<img width="1188" height="874" alt="image" src="https://github.com/user-attachments/assets/8fbab7ad-8561-4d11-9ecc-ae6ca7c30db3" />
+
+<img width="1233" height="952" alt="image" src="https://github.com/user-attachments/assets/c1340456-bdd4-4eec-8d92-8801e98d212e" />
+
+<img width="397" height="259" alt="image" src="https://github.com/user-attachments/assets/478ecd41-c5dd-4ee0-bf10-bb28a6e4710b" />
+
+<img width="1209" height="720" alt="image" src="https://github.com/user-attachments/assets/dda390ff-8820-4752-b1c5-4891211d6776" />
+
+
+
+
+
+
