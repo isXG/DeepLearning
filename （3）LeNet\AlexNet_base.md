@@ -110,6 +110,9 @@
 <img width="1731" height="949" alt="image" src="https://github.com/user-attachments/assets/a53eccd2-cd43-42d2-ac0d-d11058940ce5" />
 
 ## 本章问答
+<img width="1330" height="587" alt="image" src="https://github.com/user-attachments/assets/b0b326e2-08a1-4cce-b76e-e779e1224d99" />
+
+======================================================================================================================================
 
 <img width="1316" height="702" alt="image" src="https://github.com/user-attachments/assets/f85101f6-bab9-48fc-b5ff-de6f43bd4037" />
 
