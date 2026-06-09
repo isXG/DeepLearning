@@ -74,4 +74,3 @@
 
 ##  本章问答
 
-<img width="1453" height="434" alt="image" src="https://github.com/user-attachments/assets/a0331f53-cbfc-42b0-9810-59f4319bdab1" />
