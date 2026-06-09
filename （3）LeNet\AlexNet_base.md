@@ -129,6 +129,13 @@
 ======================================================================================================================================
 <img width="1361" height="1054" alt="image" src="https://github.com/user-attachments/assets/c15b372e-ddb0-4605-a7b4-d551ca05a7c8" />
 
+======================================================================================================================================
+
+<img width="1366" height="729" alt="image" src="https://github.com/user-attachments/assets/56d1c9c5-b177-4d2d-8339-09dd2ee31a4d" />
+
+======================================================================================================================================
+ <img width="1337" height="780" alt="image" src="https://github.com/user-attachments/assets/69a6e811-16c4-4041-bd3f-e5276bf97226" />
+
 
 ## 答
 
@@ -154,3 +161,14 @@
 
 ======================================================================================================================================
 <img width="1349" height="722" alt="image" src="https://github.com/user-attachments/assets/81173681-a4f4-420c-ac97-9817df806ba0" />
+
+======================================================================================================================================
+<img width="1347" height="844" alt="image" src="https://github.com/user-attachments/assets/f473a8db-4445-4094-aa59-e21d8f8be75b" />
+<img width="1429" height="766" alt="image" src="https://github.com/user-attachments/assets/d7a674dd-ac14-4875-b5eb-1940fdeffe52" />
+
+======================================================================================================================================
+<img width="1420" height="740" alt="image" src="https://github.com/user-attachments/assets/3668138a-b67d-4334-8166-2da13da6d2ea" />
+<img width="1349" height="1070" alt="image" src="https://github.com/user-attachments/assets/34e4eddb-0d35-4519-9940-0af2a9dc8d8f" />
+<img width="1341" height="350" alt="image" src="https://github.com/user-attachments/assets/0030e9cb-8f00-430a-825b-609a68dd16b6" />
+
+======================================================================================================================================
